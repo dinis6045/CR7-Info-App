@@ -205,9 +205,9 @@ git clone [repository-url]
 
 # Screenshots
 
-![Main Screen](Captura de ecrã 2026-03-15 172...)
+![Main Screen](Captura de ecrã 2026-03-15 172435.png)
 
-![Detail Screen](Captura de ecrã 2026-03-15 172...)
+![Detail Screen](Captura de ecrã 2026-03-15 172625.png)
 
 
 
