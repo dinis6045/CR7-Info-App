@@ -179,7 +179,7 @@ To run the project:
 1. Clone the repository
 
 ```
-git clone [repository-url]
+git clone https://github.com/dinis6045/CR7-Info-App
 ```
 
 2. Open the project in **Android Studio**
@@ -201,13 +201,13 @@ git clone [repository-url]
 
 ---
 
-# Screenshots
+
 
 # Screenshots
 
-![Main Screen](Captura de ecrã 2026-03-15 172435.png)
+![Main Screen](main_screen.png)
 
-![Detail Screen](Captura de ecrã 2026-03-15 172625.png)
+![Detail Screen](detail_screen.png)
 
 
 
