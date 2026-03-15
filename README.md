@@ -203,24 +203,13 @@ git clone [repository-url]
 
 # Screenshots
 
-*(Add screenshots of the application here)*
+# Screenshots
 
-Example:
+![Main Screen](Captura de ecrã 2026-03-15 172...)
 
-```
-screenshots/
-   main_screen.png
-   detail_screen.png
-```
+![Detail Screen](Captura de ecrã 2026-03-15 172...)
 
-You can add them like this:
 
-```
-![Main Screen](screenshots/main_screen.png)
-![Detail Screen](screenshots/detail_screen.png)
-```
-
----
 
 # Autonomous Software Engineering Sections
 
